@@ -1,7 +1,7 @@
 body {
     background-color: #F9F7F7;
     margin: 0;
-    font-family: 'Outfir', sans-serif;
+    font-family: 'Outfit', sans-serif;
 }
 
 h3 {
@@ -27,13 +27,8 @@ img {
     border-radius: 10px;
 }
 .container {
-    background-color: #C9D6DF;
-    width: 30%;
-    height: 600px;
-    margin: 50px auto;
-    padding: 50px 0 0 350px;
-    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.3), 0 6px 18px rgba(0, 0, 0, 0.16);
-    
+    width: 14%;
+    margin: 200px auto;
 }
 
 .QR-container {
@@ -42,6 +37,6 @@ img {
     height: 400px;
     text-align: center;
     border-radius: 10px;
-    padding: 0 10px 30px;
+    padding: 0 15px 30px;
     box-shadow: 0 5px 8px rgba(0, 0, 0, 0.3), 0 6px 18px rgba(0, 0, 0, 0.16);
 }
