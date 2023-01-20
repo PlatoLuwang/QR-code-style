@@ -1,0 +1,47 @@
+body {
+    background-color: #F9F7F7;
+    margin: 0;
+    font-family: 'Outfir', sans-serif;
+}
+
+h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 0 10px;
+    color: #112D4E;
+    line-height: 1.4;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.4;
+    padding: 0px 10px;
+    color: #B7C4CF;
+}
+
+img {
+    width: 230px;
+    height: 230px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.container {
+    background-color: #C9D6DF;
+    width: 30%;
+    height: 600px;
+    margin: 50px auto;
+    padding: 50px 0 0 350px;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.3), 0 6px 18px rgba(0, 0, 0, 0.16);
+    
+}
+
+.QR-container {
+    background-color: #F9F7F7;
+    width: 230px;
+    height: 400px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 0 10px 30px;
+    box-shadow: 0 5px 8px rgba(0, 0, 0, 0.3), 0 6px 18px rgba(0, 0, 0, 0.16);
+}
