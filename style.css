@@ -28,6 +28,7 @@ img {
 .container {
     display: flex;
     justify-content: center;
+    align-item: center;
     width: 14%;
     margin: 200px auto;
 }
