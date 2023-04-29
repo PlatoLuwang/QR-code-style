@@ -1,6 +1,7 @@
 body {
     background-color: #C9D6DF;
     font-family: 'Outfit', sans-serif;
+    overflow: hidden;
 }
 
 h3 {
@@ -30,7 +31,7 @@ img {
     justify-content: center;
     align-item: center;
     width: 14%;
-    margin: 200px auto;
+    margin: 135px auto;
 }
 
 .QR-container {
